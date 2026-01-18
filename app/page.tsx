@@ -1,9 +1,9 @@
-import Header from "@/components/Header";
+import FrontPage from "@/components/FrontPage";
 
 export default function Home() {
   return (
     <main className="container mx-auto px-4">
-      <Header />
+      <FrontPage />
     </main>
   );
 }
